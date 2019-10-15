@@ -1,3 +1,0 @@
-node nw.js
-
-pause
