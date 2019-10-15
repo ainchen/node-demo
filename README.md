@@ -1,3 +1,4 @@
+```
 demo/
 |
 +- .vscode/
@@ -43,3 +44,4 @@ demo/
 +- package.json <-- 项目描述文件
 |
 +- node_modules/ <-- npm安装的所有依赖包
+```
